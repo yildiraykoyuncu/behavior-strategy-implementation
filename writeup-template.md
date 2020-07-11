@@ -1,5 +1,6 @@
-# [challengeName](https://www.codewars.com/kata/challengeNumber)
+# [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
 
+Funt
 describe the function's behavior in your own words.
 
 ## Syntax
